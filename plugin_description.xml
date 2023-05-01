@@ -1,0 +1,10 @@
+<library path="lib/libicp_visualization_rviz_plugin">
+  <class name="PointCloudCorrespondence"
+         type="rviz::PointCloudCorrespondenceDisplay"
+         base_class_type="rviz::Display">
+    <description>
+      Display correspondance of two point clouds in a custom message
+    </description>
+  </class>
+
+</library>
